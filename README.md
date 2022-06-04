@@ -1,0 +1,2 @@
+# Jetictors
+这是一个讲解Android开发中在Kotlin以及Java下使用Dagger2的一个实例，项目中会从Dagger2的最基础的用法到高级实践。并且会举例说明两者在使用Dagger2时的区别
